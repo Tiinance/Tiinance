@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiinance
+- 👋 Hi, I’m @Techskye
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning html, css and JavaScript 
 - 💞️ I’m looking to collaborate on web development project
